@@ -4,7 +4,7 @@ title: 'Janderson Martins | +55 (82) 98734-7365 | jandersonmartins10@gmail.com'
 
 ### Resumo
 
-> Bacharel em Análise de Sistemas. Trabalho com Back-end e Front-end focado em JavaScript desde 2015 e mobile desde 2018. Atualmente sou desenvolvedor Full Stack na Edusynch e Levely. Meus interesses atuais são: GraphQL, Docker, Node.js e JavaScript.
+> Bacharel em Análise de Sistemas. Trabalho com Back-end e Front-end desde 2015 e mobile desde 2018. Atualmente sou desenvolvedor Front-end na Edusynch e Levely.
 
 ### Education 
 
@@ -12,9 +12,11 @@ title: 'Janderson Martins | +55 (82) 98734-7365 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- set/2019 - now: Full Stack Developer, EduSynch | Levely - Remoto
+- set/2019 - now: Front-end Developer, EduSynch | Levely - Remoto
 
-> Minha principal função é reescrever um software legado em Rails para uma nova stack: GraphQL, Node.js e React. Usando AdonisJS como framework para back-end, React no Front-end em conjunto com algumas bibliotecas como Apollo para interação com GraphQL, Storybook para desenvolvimento dos components em isolado, Jest para tests de unidade e integração e Cypress para tests End to End.
+> Reescrita de um Front-end legado em Rails para uma nova arquitetura usando React em conjunto com algumas bibliotecas como Storybook para desenvolvimento dos components em isolado, Jest para tests de unidade e integração e Cypress para tests End to End.
+
+> Manutenção de Front-end com angular.js 1.x.
 
 - set/2018 - set/2019: Full Stack Developer, Locadados Data Solutions - Maceió/AL
 
