@@ -14,5 +14,5 @@ Requires docker (https://www.docker.com/).
 ## Instructions
 
 1. Edit the source file at: /source/cv-en.md and /source/cv-pt.md
-2. Run 'ENV=[pt-en] make build-cv' in the folder containing the Makefile
+2. Run 'LANG=[pt-en] make build-cv' in the folder containing the Makefile
 3. A new PDF will be generated in the /output folder

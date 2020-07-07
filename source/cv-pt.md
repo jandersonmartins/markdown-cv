@@ -12,7 +12,7 @@ title: 'Janderson Martins | +55 (82) 98734-7365 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- set/2019 - now: Front-end Developer, EduSynch | Levely - Remoto
+- set/2019 - now: Front-end Engineer, EduSynch | Levely - Remoto
 
 > Reescrita de um Front-end legado em Rails para uma nova arquitetura usando React em conjunto com algumas bibliotecas como Storybook para desenvolvimento dos components em isolado, Jest para tests de unidade e integração e Cypress para tests End to End.
 
