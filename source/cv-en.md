@@ -4,7 +4,7 @@ title: 'Janderson Martins | +55 (82) 98734-7365 | jandersonmartins10@gmail.com'
 
 ### Personal summary
 
-> Bachelor's degree in System Analysis. I've been working with Back-end and Front-end since 2014 and mobile since 2018. Currently, I'm Front-End at Edusynch and Levely. 
+> Bachelor's degree in System Analysis. I've been working with Back-end and Front-end since 2014 and mobile since 2018. Currently, I'm Full Stack at Edusynch and Levely. 
 
 ### Education 
 
@@ -12,11 +12,13 @@ title: 'Janderson Martins | +55 (82) 98734-7365 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- set/2019 - now: Front-end Engineer, EduSynch | Levely - Remote
+- set/2019 - now: Full Stack Developer, EduSynch | Levely - Remote
 
 > Rewrite a legacy Rails front-end to a new stack using React and some libraries like Storybook to build UI components isolated, Jest to write unit and integration tests, and Cypress to End to End tests.
 
 > Maintain a front-end (angular.js 1.x) app.
+
+> Work on a Ruby on Rails and Node.js back-ends.
 
 - set/2018 - set/2019: Full Stack Developer, Locadados Data Solutions - Maceió/AL
 
