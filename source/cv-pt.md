@@ -12,13 +12,19 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- set/2019 - now: Full Stack Developer, EduSynch | Levely - Remoto
+- out/2020 - atual: Full Stack Developer, WisePay - Remote
 
-> Reescrita de um Front-end legado em Rails para uma nova arquitetura usando React em conjunto com algumas bibliotecas como Storybook para desenvolvimento dos components em isolado, Jest para tests de unidade e integração e Cypress para tests End to End.
+- set/2019 - out/2020: Full Stack Developer, EduSynch | Levely - Remoto
 
-> Manutenção de Front-end com angular.js 1.x.
+> No front-end, meu trabalho foi manter uma aplicação web feita em Angular.js (1.x) e também reescrever um front-end legado em Rails para uma nova stack usando React e outras bibliotecas como styled-components para aplicar css-in-js, Storybook, Jest para testes de unidade e integração e Cypress para testes e2e.
+
+> Como back-end, minhas resposabilidades eram manter um back-end em Ruy on Rails. Também fui responsável pela criação e manutenção de um serviço HTTP/Websocket feito com Node.js
 
 > Manutenção e evolução de back-ends com Ruby on Rails e Node.js.
+
+- set/2019 - ago/2020: Part Time Back End Developer, Yooh
+
+> Trabalhei em diferentes sites e aplicações web feitas em Ruby on Rails, como, e-commerce, CMSs, Plataforma EAD, sites institucionais, etc.
 
 - set/2018 - set/2019: Full Stack Developer, Locadados Data Solutions - Maceió/AL
 

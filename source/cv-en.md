@@ -12,15 +12,19 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- set/2019 - now: Full Stack Developer, EduSynch | Levely - Remote
+- Oct/2020 - now: Full Stack Developer, WisePay - Remote
 
-> Rewrite a legacy Rails front-end to a new stack using React and some libraries like Storybook to build UI components isolated, Jest to write unit and integration tests, and Cypress to End to End tests.
+- Sept/2019 - Oct/2020: Full Stack Developer, EduSynch | Levely - Remote
 
-> Maintain a front-end (angular.js 1.x) app.
+> My front-end responsibilities were around maintaining a single page application built with Angular.js (1.x) and also rewritten a legacy Rails front-end to a new stack using React and some libraries like styled-components to apply css-in-js, Storybook, Jest to write unit and integration tests, and Cypress to End to End tests.
 
-> Work on a Ruby on Rails and Node.js back-ends.
+> My back-end responsibilities were maintaining a Ruby on Rails back-end. I was also responsible for building and maintain a Node.js HTTP/WebSocket back-end.
 
-- set/2018 - set/2019: Full Stack Developer, Locadados Data Solutions - Maceió/AL
+- Sept/2019 - Aug/2020: Part Time Back End Developer, Yooh
+
+> Worked on different sites and web apps with Ruby on Rails like e-commerce, CMS, EAD platform, institutional sites...
+
+- Sept/2018 - Sept/2019: Full Stack Developer, Locadados Data Solutions - Maceió/AL
 
 > Back to Locadados, my work involved maintain and add new features to different web applications, back-end services and also android mobile apps using Appcelerator Titanium and React Native.
 
@@ -28,11 +32,11 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 > Worked in other projects like Maxfrota Gateway, Maxfrota Web App and back-end services using Node.js as mentioned before.
 
-- jul/2018 - set/2018: Full Stack Developer, Onpax - Maceió/AL
+- July/2018 - Sept/2018: Full Stack Developer, Onpax - Maceió/AL
 
 > The main assignment at Onpax a multi-level marketing platform made with Ruby on Rails, HTML, CSS, and JavaScript were to building new features, improving existing features and fixing bugs.
 
-- jul/2015 - jun/2018: Full Stack Developer, Locadados Data Solutions - Maceió/AL
+- July/2015 - June/2018: Full Stack Developer, Locadados Data Solutions - Maceió/AL
 
 > My work at Locadados involved maintain and add new features to different web applications and back-end services in different contexts.
 
@@ -46,6 +50,6 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 > I also worked on back-end services using Node.js with different purposes like PDF generator, telegram notification, etc. These services supported the previously mentioned applications.
 
-- may/2014 - out/2014: Intern, Sefaz - Maceió/AL
+- May/2014 - Oct/2014: Intern, Sefaz - Maceió/AL
 
 > My first job as a programmer. I have worked on Siefaz an intranet web application focused on managing all interns' data using HTML, CSS, JavaScript, PHP, and MySQL.
