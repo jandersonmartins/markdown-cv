@@ -12,7 +12,13 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- Oct/2020 - now: Full Stack Developer, WisePay - Remote
+- Mar/2021 - now: Lead Back End Developer, WisePay - Maceió/AL
+
+> As the Lead Back End Developer I'm tasked with lead the back end team guiding and helping them, managing sprints and tasks, making sure that our job is achieving the company's need. Working on microservices built with Go Lang and Node.js (TypeScript) following Clean Architecture, DDD, and TDD, to create scalable architectures covered by tests and, using Apache Kafka to event-driven communication.
+
+- Oct/2020 - Marc/2021: Full Stack Developer, WisePay - Remote
+
+> My work at WisePay started as a Full-Stack. I was focused on rewritten a legacy monolithic Ruby on Rails web application to a new stack using React to implement the Front-End as Single Page Application and React Native with Expo to implement a mobile Android/IOS app. Node.js with Typescript was used to create a REST API following Clean Architecture, DDD and TDD, to create a scalable architecture baked by tests.
 
 - Sept/2019 - Oct/2020: Full Stack Developer, EduSynch | Levely - Remote
 
