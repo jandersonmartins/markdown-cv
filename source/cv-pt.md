@@ -4,7 +4,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Resumo
 
-> Bacharel em Análise de Sistemas. Trabalho com Back-end e Front-end desde 2015 e mobile desde 2018. Atualmente sou desenvolvedor Full Stack na Edusynch e Levely.
+> Bacharel em Análise de Sistemas. Trabalho com Back-end e Front-end desde 2015 e mobile desde 2018. Atualmente sou Lead Back End Developer na WisePay.
 
 ### Education 
 
@@ -12,7 +12,15 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- out/2020 - atual: Full Stack Developer, WisePay - Remote
+- mar/2021 - atual: Lead Back End Developer
+
+
+Como Lead Back End Developer, tenho a tarefa de liderar a equipe de back end, orientando e ajudando-os, gerenciando sprints e tarefas, garantindo que nosso trabalho atenda às necessidades da empresa. Trabalho em APIs / microsserviços REST com Go Lang, Node.js (TypeScript) e Ruby on Rails seguindo Clean Architecture, DDD e TDD, para criar arquiteturas escaláveis cobertas por testes automatizados e, usando Apache Kafka para comunicação orientada a eventos.
+
+
+- out/2020 - mar/2021: Full Stack Developer, WisePay - Remote
+
+Meu trabalho no WisePay começou como Full-Stack. Eu estava focado em reescrever um Ruby on Rails web app monolítico legado para uma nova stack usando React para implementar o front-end em formato SPA e React Native com Expo para implementar o aplicativo móvel Android / IOS. Node.js com Typescript foi usado para criar uma API REST seguindo Clean Architecture, DDD e TDD, para criar uma arquitetura escalável coberta por testes automatizados. 
 
 - set/2019 - out/2020: Full Stack Developer, EduSynch | Levely - Remoto
 

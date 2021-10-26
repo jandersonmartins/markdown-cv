@@ -4,7 +4,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Personal summary
 
-> Bachelor's degree in System Analysis. I've been working with Back-end and Front-end since 2014 and mobile since 2018. Currently, I'm Full Stack at Edusynch and Levely. 
+> Bachelor's degree in System Analysis. I've been working with Back-end and Front-end since 2014 and mobile since 2018. Currently, I'm Lead Back End Developer at WisePay. 
 
 ### Education 
 
