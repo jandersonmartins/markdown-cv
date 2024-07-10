@@ -4,7 +4,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Resumo
 
-> Bacharel em Análise de Sistemas. Trabalho com Back-end e Front-end desde 2015 e mobile desde 2018. Atualmente sou Lead Back End Developer na WisePay.
+> Bacharel em Análise de Sistemas. Trabalho com Back-end e Front-end desde 2015 e mobile desde 2018. Atualmente sou Engenheiro de Software Sênior na Creditas.
 
 ### Education 
 
@@ -12,15 +12,26 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- mar/2021 - atual: Lead Back End Developer
+- jan/2022 - atual: Senior Software Engineer
+
+> A Creditas é líder no mercado, a maior plataforma online de crédito com garantia do Brasil. 
+
+> Atuação como Sênior Software Engineer na tribo de Home, responsável pelo produto de empréstimo com garantia de imóvel. Em duas diferentes squads em diferentes momentos: acquisition e sales experience, focadas na entrada dos clientes e em toda a sua experiência ao longo do processo de pedido de empréstimo.
+
+> Trabalho sempre alinhado com stakeholders e lideranças de engenharia, produto, design, comercial, marketing, analytics, etc., garantindo que as iniciativas estejam sempre alinhadas com os objetivos e a visão da empresa.
+Estratégia de engenharia focada em microserviços e micro front-ends por contexto, baseando-se no domain-driven design.
+
+> Nos serviços de back-end, maior atuação em serviços feitos em Kotlin com Spring Boot e um legado em Ruby com Hanami, assim como BFFs (Back-end for Front-end) em Node.js com GraphQL. Serviços estes rodando em Kubernetes na AWS usando Terraform como IaC, comunicando-se por HTTP ou via Kafka, tendo Postgres como principal escolha em banco de dados. Nos front-ends, grande parte é desenvolvida em React + GraphQL, com apenas uma aplicação legada em Ember.js.
+
+- mar/2021 - dez/2021: Lead Back End Developer
 
 
-Como Lead Back End Developer, tenho a tarefa de liderar a equipe de back end, orientando e ajudando-os, gerenciando sprints e tarefas, garantindo que nosso trabalho atenda às necessidades da empresa. Trabalho em APIs / microsserviços REST com Go Lang, Node.js (TypeScript) e Ruby on Rails seguindo Clean Architecture, DDD e TDD, para criar arquiteturas escaláveis cobertas por testes automatizados e, usando Apache Kafka para comunicação orientada a eventos.
+> Como Lead Back End Developer, tenho a tarefa de liderar a equipe de back end, orientando e ajudando-os, gerenciando sprints e tarefas, garantindo que nosso trabalho atenda às necessidades da empresa. Trabalho em APIs / microsserviços REST com Go Lang, Node.js (TypeScript) e Ruby on Rails seguindo Clean Architecture, DDD e TDD, para criar arquiteturas escaláveis cobertas por testes automatizados e, usando Apache Kafka para comunicação orientada a eventos.
 
 
 - out/2020 - mar/2021: Full Stack Developer, WisePay - Remote
 
-Meu trabalho no WisePay começou como Full-Stack. Eu estava focado em reescrever um Ruby on Rails web app monolítico legado para uma nova stack usando React para implementar o front-end em formato SPA e React Native com Expo para implementar o aplicativo móvel Android / IOS. Node.js com Typescript foi usado para criar uma API REST seguindo Clean Architecture, DDD e TDD, para criar uma arquitetura escalável coberta por testes automatizados. 
+> Meu trabalho no WisePay começou como Full-Stack. Eu estava focado em reescrever um Ruby on Rails web app monolítico legado para uma nova stack usando React para implementar o front-end em formato SPA e React Native com Expo para implementar o aplicativo móvel Android / IOS. Node.js com Typescript foi usado para criar uma API REST seguindo Clean Architecture, DDD e TDD, para criar uma arquitetura escalável coberta por testes automatizados. 
 
 - set/2019 - out/2020: Full Stack Developer, EduSynch | Levely - Remoto
 

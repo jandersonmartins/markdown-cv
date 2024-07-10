@@ -4,7 +4,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Personal summary
 
-> Bachelor's degree in System Analysis. I've been working with Back-end and Front-end since 2014 and mobile since 2018. Currently, I'm Lead Back End Developer at WisePay. 
+> Bachelor's degree in System Analysis. I've been working with Back-end and Front-end since 2014 and mobile since 2018. Currently, I'm Senior Software Engineer at Creditas. 
 
 ### Education 
 
@@ -12,7 +12,15 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- Mar/2021 - now: Lead Back End Developer, WisePay - Maceió/AL
+- Jan/2022 - Now: Senior Software Engineer
+
+> Work as a Senior Software Engineer in the Home tribe, responsible for the home equity loan product. I was part of two different squads at different times: acquisition and sales experience, focusing on customer onboarding and the entire experience throughout the loan application process.
+
+> I consistently collaborated with stakeholders and leadership in engineering, product, design, commercial, marketing, analytics, and other areas to ensure initiatives were always aligned with the company's goals and vision. Our engineering strategy focused on microservices and micro front-ends by context, based on domain-driven design.
+
+> In the backend services, my primary focus was on services built with Kotlin and Spring Boot, with a legacy in Ruby using Hanami, as well as BFFs (Back-end for Front-end) in Node.js with GraphQL. These services ran on Kubernetes in AWS using Terraform as IaC, communicating via HTTP or Kafka, with Postgres as the main database choice. On the front end, most development was done in React + GraphQL, with only one legacy application in Ember.js.
+
+- Mar/2021 - Dec/2021: Lead Back End Developer, WisePay - Maceió/AL
 
 > As the Lead Back End Developer I'm tasked with lead the back end team guiding and helping them, managing sprints and tasks, making sure that our job is achieving the company's need. Working on microservices built with Go Lang and Node.js (TypeScript) following Clean Architecture, DDD, and TDD, to create scalable architectures covered by tests and, using Apache Kafka to event-driven communication.
 
