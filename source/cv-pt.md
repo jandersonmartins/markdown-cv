@@ -23,7 +23,7 @@ Estratégia de engenharia focada em microserviços e micro front-ends por contex
 
 > Nos serviços de back-end, maior atuação em serviços feitos em Kotlin com Spring Boot e um legado em Ruby com Hanami, assim como BFFs (Back-end for Front-end) em Node.js com GraphQL. Serviços estes rodando em Kubernetes na AWS usando Terraform como IaC, comunicando-se por HTTP ou via Kafka, tendo Postgres como principal escolha em banco de dados. Nos front-ends, grande parte é desenvolvida em React + GraphQL, com apenas uma aplicação legada em Ember.js.
 
-- mar/2021 - dez/2021: Lead Back End Developer, WisePay - Remote/Híbrido
+- mar/2021 - dez/2021: Lead Back End Developer, WisePay - Remoto/Híbrido
 
 
 > Como Lead Back End Developer, tenho a tarefa de liderar a equipe de back end, orientando e ajudando-os, gerenciando sprints e tarefas, garantindo que nosso trabalho atenda às necessidades da empresa. Trabalho em APIs / microsserviços REST com Go Lang, Node.js (TypeScript) e Ruby on Rails seguindo Clean Architecture, DDD e TDD, para criar arquiteturas escaláveis cobertas por testes automatizados e, usando Apache Kafka para comunicação orientada a eventos.
