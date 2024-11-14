@@ -12,7 +12,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- jan/2022 - atual: Senior Software Engineer
+- jan/2022 - atual: Senior Software Engineer, Creditas - Remoto/Híbrido
 
 > A Creditas é líder no mercado, a maior plataforma online de crédito com garantia do Brasil. 
 
@@ -23,13 +23,13 @@ Estratégia de engenharia focada em microserviços e micro front-ends por contex
 
 > Nos serviços de back-end, maior atuação em serviços feitos em Kotlin com Spring Boot e um legado em Ruby com Hanami, assim como BFFs (Back-end for Front-end) em Node.js com GraphQL. Serviços estes rodando em Kubernetes na AWS usando Terraform como IaC, comunicando-se por HTTP ou via Kafka, tendo Postgres como principal escolha em banco de dados. Nos front-ends, grande parte é desenvolvida em React + GraphQL, com apenas uma aplicação legada em Ember.js.
 
-- mar/2021 - dez/2021: Lead Back End Developer
+- mar/2021 - dez/2021: Lead Back End Developer, WisePay - Remote/Híbrido
 
 
 > Como Lead Back End Developer, tenho a tarefa de liderar a equipe de back end, orientando e ajudando-os, gerenciando sprints e tarefas, garantindo que nosso trabalho atenda às necessidades da empresa. Trabalho em APIs / microsserviços REST com Go Lang, Node.js (TypeScript) e Ruby on Rails seguindo Clean Architecture, DDD e TDD, para criar arquiteturas escaláveis cobertas por testes automatizados e, usando Apache Kafka para comunicação orientada a eventos.
 
 
-- out/2020 - mar/2021: Full Stack Developer, WisePay - Remote
+- out/2020 - mar/2021: Full Stack Developer, WisePay - Remoto
 
 > Meu trabalho no WisePay começou como Full-Stack. Eu estava focado em reescrever um Ruby on Rails web app monolítico legado para uma nova stack usando React para implementar o front-end em formato SPA e React Native com Expo para implementar o aplicativo móvel Android / IOS. Node.js com Typescript foi usado para criar uma API REST seguindo Clean Architecture, DDD e TDD, para criar uma arquitetura escalável coberta por testes automatizados. 
 
@@ -41,7 +41,7 @@ Estratégia de engenharia focada em microserviços e micro front-ends por contex
 
 > Manutenção e evolução de back-ends com Ruby on Rails e Node.js.
 
-- set/2019 - ago/2020: Part Time Back End Developer, Yooh
+- set/2019 - ago/2020: Part Time Back End Developer, Yooh - Remoto
 
 > Trabalhei em diferentes sites e aplicações web feitas em Ruby on Rails, como, e-commerce, CMSs, Plataforma EAD, sites institucionais, etc.
 

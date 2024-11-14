@@ -12,7 +12,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 ### Employment 
 
-- Jan/2022 - Now: Senior Software Engineer
+- Jan/2022 - Now: Senior Software Engineer, Creditas - Remote/Hibrid
 
 > Work as a Senior Software Engineer in the Home tribe, responsible for the home equity loan product. I was part of two different squads at different times: acquisition and sales experience, focusing on customer onboarding and the entire experience throughout the loan application process.
 
@@ -20,7 +20,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 > In the backend services, my primary focus was on services built with Kotlin and Spring Boot, with a legacy in Ruby using Hanami, as well as BFFs (Back-end for Front-end) in Node.js with GraphQL. These services ran on Kubernetes in AWS using Terraform as IaC, communicating via HTTP or Kafka, with Postgres as the main database choice. On the front end, most development was done in React + GraphQL, with only one legacy application in Ember.js.
 
-- Mar/2021 - Dec/2021: Lead Back End Developer, WisePay - Maceió/AL
+- Mar/2021 - Dec/2021: Lead Back End Developer, WisePay - Remote/Hibrid
 
 > As the Lead Back End Developer I'm tasked with lead the back end team guiding and helping them, managing sprints and tasks, making sure that our job is achieving the company's need. Working on microservices built with Go Lang and Node.js (TypeScript) following Clean Architecture, DDD, and TDD, to create scalable architectures covered by tests and, using Apache Kafka to event-driven communication.
 
@@ -34,7 +34,7 @@ title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
 
 > My back-end responsibilities were maintaining a Ruby on Rails back-end. I was also responsible for building and maintain a Node.js HTTP/WebSocket back-end.
 
-- Sept/2019 - Aug/2020: Part Time Back End Developer, Yooh
+- Sept/2019 - Aug/2020: Part Time Back End Developer, Yooh - Remote
 
 > Worked on different sites and web apps with Ruby on Rails like e-commerce, CMS, EAD platform, institutional sites...
 
