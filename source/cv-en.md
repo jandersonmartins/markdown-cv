@@ -1,69 +1,129 @@
+# Janderson Martins
+
+**Senior Software Engineer**
+
+- phone: +55 (82) 99648-4668 
+- email: jandersonmartins10@gmail.com
+- linkedin: linkedin.com/in/janderson-martins-70045b39
+
 ---
-title: 'Janderson Martins | +55 (82) 99648-4668 | jandersonmartins10@gmail.com'
-...
 
-### Personal summary
+## Summary
 
-> Bachelor's degree in System Analysis. I've been working with Back-end and Front-end since 2014 and mobile since 2018. Currently, I'm Senior Software Engineer at Creditas. 
+Software Engineer with 10+ years of experience in back-end, front-end, and mobile development. This experience includes working with microservices, clean code practices, and domain-focused design approaches. Strong experience with Kotlin, Node.js, React, and cloud infrastructure such as AWS and Kubernetes. Recently worked on a conversational AI agent using generative AI, leveraging LLMs and a RAG (Retrieval-Augmented Generation) approach to build context-aware interactions. Also experienced in technical leadership and collaborating with product, design, and business teams.
 
-### Education 
+---
 
-- bachelor degree (2011-2015) System Analysis, Cesmac - Alagoas - Maceió.
+## Technical Skills
 
-### Employment 
+**Back-end:** Kotlin, Spring Boot, Node.js, TypeScript, Ruby on Rails, Go, GraphQL, REST APIs
+**Front-end:** React, Angular.js, Vue.js, Ember.js, Styled Components, Storybook
+**Mobile:** React Native, Expo, Appcelerator Titanium
+**Infrastructure & DevOps:** AWS, Kubernetes, Terraform (IaC), Docker, Apache Kafka
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB
+**AI & ML:** RAG, LLMs, Langflow, Langfuse, Prompt Engineering, AI Agents
+**Practices:** Microservices, Clean Architecture, DDD, TDD, CI/CD, Automated Testing (Jest, Cypress)
 
-- Jan/2022 - Now: Senior Software Engineer, Creditas - Remote/Hibrid
+---
 
-> Work as a Senior Software Engineer in the Home tribe, responsible for the home equity loan product. I was part of two different squads at different times: acquisition and sales experience, focusing on customer onboarding and the entire experience throughout the loan application process.
+## Professional Experience
 
-> I consistently collaborated with stakeholders and leadership in engineering, product, design, commercial, marketing, analytics, and other areas to ensure initiatives were always aligned with the company's goals and vision. Our engineering strategy focused on microservices and micro front-ends by context, based on domain-driven design.
+### Senior Software Engineer | Creditas
+**Jan/2022 – Present** · Remote/Hybrid
 
-> In the backend services, my primary focus was on services built with Kotlin and Spring Boot, with a legacy in Ruby using Hanami, as well as BFFs (Back-end for Front-end) in Node.js with GraphQL. These services ran on Kubernetes in AWS using Terraform as IaC, communicating via HTTP or Kafka, with Postgres as the main database choice. On the front end, most development was done in React + GraphQL, with only one legacy application in Ember.js.
+- Part of the Home tribe (home equity loans) at Brazil's largest online secured credit platform, across the Acquisition, Sales Experience and **AI Home** squads.
+- Development and maintenance of microservices in **Kotlin/Spring Boot**, BFFs in **Node.js/GraphQL** and front-ends in **React**.
+- Operation of services on **Kubernetes on AWS** with **Terraform** as IaC, communication via HTTP, **Kafka**, message queues with **SQS** and pub/sub with **SNS**, with **PostgreSQL** as the primary database and **MongoDB** in specific use cases.
+- Built a **RAG-based** conversational **AI Agent** for WhatsApp using **Langflow** for flow orchestration, **Langfuse** for prompt management and observability, **Twilio** integration and a proprietary knowledge base; involved **Prompt Engineering** and **LLM** fine-tuning practices.
+- Applied **DDD** in microservices design and collaborated directly with engineering, product, design, commercial, marketing and analytics stakeholders to ensure strategic alignment of initiatives.
+- Migration and maintenance of legacy systems in **Ruby** (Hanami) and Ember.js.
 
-- Mar/2021 - Dec/2021: Lead Back End Developer, WisePay - Remote/Hibrid
+`Kotlin` `Spring Boot` `Node.js` `GraphQL` `React` `Ruby` `Kafka` `AWS` `SQS` `SNS` `Kubernetes` `Terraform` `PostgreSQL` `MongoDB` `DDD` `Microservices` `RAG` `LLM` `Langflow` `Langfuse` `Twilio` `AI Agents` `Prompt Engineering`
 
-> As the Lead Back End Developer I'm tasked with lead the back end team guiding and helping them, managing sprints and tasks, making sure that our job is achieving the company's need. Working on microservices built with Go Lang and Node.js (TypeScript) following Clean Architecture, DDD, and TDD, to create scalable architectures covered by tests and, using Apache Kafka to event-driven communication.
+---
 
-- Oct/2020 - Marc/2021: Full Stack Developer, WisePay - Remote
+### Lead Back-end Developer | WisePay
+**Mar/2021 – Dec/2021** · Remote/Hybrid
 
-> My work at WisePay started as a Full-Stack. I was focused on rewritten a legacy monolithic Ruby on Rails web application to a new stack using React to implement the Front-End as Single Page Application and React Native with Expo to implement a mobile Android/IOS app. Node.js with Typescript was used to create a REST API following Clean Architecture, DDD and TDD, to create a scalable architecture baked by tests.
+- Technical leadership of the back-end team: mentoring, sprint management and alignment with business objectives.
+- Development of REST APIs and microservices with **Go**, **Node.js (TypeScript)** and **Ruby on Rails**, applying **Clean Architecture**, **DDD** and **TDD**.
+- Implementation of event-driven communication with **Apache Kafka**.
 
-- Sept/2019 - Oct/2020: Full Stack Developer, EduSynch | Levely - Remote
+`Go` `Node.js` `TypeScript` `Ruby on Rails` `Kafka` `Clean Architecture` `DDD` `TDD` `Technical Leadership`
 
-> My front-end responsibilities were around maintaining a single page application built with Angular.js (1.x) and also rewritten a legacy Rails front-end to a new stack using React and some libraries like styled-components to apply css-in-js, Storybook, Jest to write unit and integration tests, and Cypress to End to End tests.
+---
 
-> My back-end responsibilities were maintaining a Ruby on Rails back-end. I was also responsible for building and maintain a Node.js HTTP/WebSocket back-end.
+### Full Stack Developer | WisePay
+**Oct/2020 – Mar/2021** · Remote
 
-- Sept/2019 - Aug/2020: Part Time Back End Developer, Yooh - Remote
+- Rewrote a Ruby on Rails monolith into a modern architecture: **React** (web SPA) and **React Native/Expo** (Android/iOS mobile app).
+- Built a REST API with **Node.js/TypeScript** following **Clean Architecture**, **DDD** and **TDD**.
 
-> Worked on different sites and web apps with Ruby on Rails like e-commerce, CMS, EAD platform, institutional sites...
+`React` `React Native` `Expo` `Node.js` `TypeScript` `Ruby on Rails` `Clean Architecture` `TDD`
 
-- Sept/2018 - Sept/2019: Full Stack Developer, Locadados Data Solutions - Maceió/AL
+---
 
-> Back to Locadados, my work involved maintain and add new features to different web applications, back-end services and also android mobile apps using Appcelerator Titanium and React Native.
+### Full Stack Developer | EduSynch / Levely
+**Sep/2019 – Oct/2020** · Remote
 
-> Worked on mobile android apps some (Maxfrota Portaria and Maxfrota Delivery) using Appcelerator Titanium and others (Maxfrota Now, Maxfrota Checklist and Maxfrota Abastecimentos) with React Native and Redux.
+- Rewrote a legacy Rails front-end into **React** with Styled Components, Storybook, Jest and Cypress.
+- Maintenance of **Angular.js** web application and **Ruby on Rails** and **Node.js** (HTTP/**WebSocket**) back-ends.
 
-> Worked in other projects like Maxfrota Gateway, Maxfrota Web App and back-end services using Node.js as mentioned before.
+`React` `Angular.js` `Ruby on Rails` `Node.js` `Jest` `Cypress` `Storybook` `WebSocket`
 
-- July/2018 - Sept/2018: Full Stack Developer, Onpax - Maceió/AL
+---
 
-> The main assignment at Onpax a multi-level marketing platform made with Ruby on Rails, HTML, CSS, and JavaScript were to building new features, improving existing features and fixing bugs.
+### Part Time Back-end Developer | Yooh
+**Sep/2019 – Aug/2020** · Remote
 
-- July/2015 - June/2018: Full Stack Developer, Locadados Data Solutions - Maceió/AL
+- Development and maintenance of **Ruby on Rails** web applications: e-commerce, CMS, LMS platform and institutional websites.
 
-> My work at Locadados involved maintain and add new features to different web applications and back-end services in different contexts.
+`Ruby on Rails`
 
-> CloudGed (web application): Maintained a legacy online document management software, built with PHP and MySql in Back-end and ExtJS in Front-end (single page application). I also created a lite version with Node.js and Angularjs (version 1.5).
+---
 
-> Maxfrota (web application): Maintained a vehicle tracking software, built with PHP using Slim and Doctrine frameworks and MySql in back-end (rest API) and Durandal and Bootstrap in Front-end (single page application).
+### Full Stack Developer | Locadados Data Solutions
+**Sep/2018 – Sep/2019** · Maceió, Brazil
 
-> Maxfrota Gateway (back-end): Vehicle trackers gateway, a software that sends and receives data from trackers. This software follows the microservices architecture and all services were built with Node.js following TDD approach with the avajs framework. Used the Redis database as a queue system and MySql.
+- Development of Android mobile apps with **React Native** and **Redux**, as well as **Appcelerator Titanium**.
+- Maintenance and evolution of web applications and back-end services in **Node.js**.
 
-> Maxfrota Integrator (web application): Software that integrates customer's data with Maxfrota. Built with Node.js and Vuejs.
+`React Native` `Redux` `Node.js` `Appcelerator Titanium`
 
-> I also worked on back-end services using Node.js with different purposes like PDF generator, telegram notification, etc. These services supported the previously mentioned applications.
+---
 
-- May/2014 - Oct/2014: Intern, Sefaz - Maceió/AL
+### Full Stack Developer | Onpax
+**Jul/2018 – Sep/2018** · Maceió, Brazil
 
-> My first job as a programmer. I have worked on Siefaz an intranet web application focused on managing all interns' data using HTML, CSS, JavaScript, PHP, and MySQL.
+- Maintenance and evolution of a multi-level marketing platform in **Ruby on Rails**.
+
+`Ruby on Rails`
+
+---
+
+### Full Stack Developer | Locadados Data Solutions
+**Jul/2015 – Jun/2018** · Maceió, Brazil
+
+- Built a vehicle tracking and delivery management system (Maxfrota) with **PHP** (Slim/Doctrine), **MySQL** and **Durandal.js**.
+- Created a tracker gateway in **Node.js** with microservices architecture and **TDD**.
+- Maintained a cloud document management system (CloudGed) with PHP/MySQL, developing a lite version with **Node.js/Angular.js** and caching with **Redis**.
+- Built integrations and auxiliary services (PDF generator, Telegram notifications) in **Node.js**; web interfaces with **Vue.js**.
+
+`Node.js` `PHP` `MySQL` `Vue.js` `Angular.js` `Redis` `Microservices` `TDD`
+
+---
+
+### Intern | Sefaz-AL (State Tax Authority)
+**May/2014 – Oct/2014** · Maceió, Brazil
+
+- Developed an intranet system for intern management using **PHP**, **MySQL**, HTML, CSS and JavaScript.
+
+`PHP` `MySQL` `JavaScript`
+
+---
+
+## Education
+
+**Bachelor's Degree in Systems Analysis**
+Cesmac – Maceió, Brazil · 2011–2015
+
